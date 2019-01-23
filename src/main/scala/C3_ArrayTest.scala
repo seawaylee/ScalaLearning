@@ -3,7 +3,7 @@ import java.util.TimeZone
 import scala.collection.mutable.ArrayBuffer
 import scala.util.Random
 
-object ArrayTest {
+object C3_ArrayTest {
   /**
     * 1.编写一段代码，将a设置为一个n个随机整数的数组，要求随机数介于0 (包 含) 和n (不包含)之间。
     */
